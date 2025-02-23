@@ -117,24 +117,24 @@ img {
     margin: 0 auto;
   }
   .card {
-    width: 150px;
+    width: 280px;
     padding: 5px 20px;
     text-align: center;
-    margin-top: 0.5rem;
+    margin: 4rem auto;
   }
   .photo {
     margin-top: 10px;
     width: 60px;
   }
   .link-block {
-    width: 130px;
+    width: 200px;
   }
   .name,
   .card p {
-    font-size: 12px;
+    font-size: 15px;
   }
   .card span,
   .link-block a {
-    font-size: 7px;
+    font-size: 10px;
   }
 }
